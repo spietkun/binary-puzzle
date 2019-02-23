@@ -7,7 +7,7 @@
 	 - [General](#general)
 	 - [Rules](#rules)
 	 - [Programming languages](#programming-languages)
-	 - [System](#system)
+	 - [Systems](#systems)
 	 - [Notes](#notes)
  - [Usage](#usage)
  
