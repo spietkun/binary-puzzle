@@ -1,9 +1,23 @@
 # Binary puzzle
 
+## Sections
+
+ -  [Visuals](#visuals)
+ - [Description](#description)
+	 - [General](#general)
+	 - [Rules](#rules)
+	 - [Programming language](#programming-language)
+	 - [Notes](#notes)
+ - [Usage](#usage)
+ 
 ## Visuals
+
 ![Screenshot](docs/images/screenshot.jpg)
 
 ## Description
+
+### General
+
 Project for the University. Binary puzzle game, including hints availability, follows given rules and is a **Windows console program**. 
 
 ### Rules
@@ -23,7 +37,9 @@ Project for the University. Binary puzzle game, including hints availability, fo
 ### Programming language
 
  - C
+ 
 ### Notes
+
 Options: k, d, a, j, w, s, l, b are not implemented.
 
 ## Usage
