@@ -1,6 +1,7 @@
 # Binary puzzle
 
 ## Visuals
+![Screenshot](docs/images/screenshot.jpg)
 
 ## Description
 Project for the University. Binary puzzle game, including hints availability, follows given rules and is a **Windows console program**. 
