@@ -6,7 +6,8 @@
  - [Description](#description)
 	 - [General](#general)
 	 - [Rules](#rules)
-	 - [Programming language](#programming-language)
+	 - [Programming languages](#programming-languages)
+	 - [System](#system)
 	 - [Notes](#notes)
  - [Usage](#usage)
  
@@ -34,9 +35,13 @@ Project for the University. Binary puzzle game, including hints availability, fo
  - Forbidden instructions:  **cin/cout/printf/scanf**
  - Standard **C++** library is **forbidden**
  
-### Programming language
+### Programming languages
 
  - C
+ 
+### Systems
+
+ - Windows, Linux etc.
  
 ### Notes
 
