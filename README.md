@@ -45,7 +45,8 @@ Project for the University. Binary puzzle game, including hints availability, fo
  
 ### Notes
 
-Options: k, d, a, j, w, s, l, b are not implemented.
+- Options: k, d, a, j, w, s, l, b are not implemented.
+- to properly open the .exe file the console must be big enough to contain all of the information
 
 ## Usage
 
